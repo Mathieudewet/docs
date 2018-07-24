@@ -4,7 +4,9 @@ API Platform natively support the [Open API](https://www.openapis.org/) (formerl
 It also integrates a customized version of [Swagger UI](https://swagger.io/swagger-ui/), a nice tool to display the
 API documentation in a user friendly way.
 
-![Screenshot](../distribution/images/swagger-ui-1.png)
+![Screenshot][swagger-ui-1]
+
+[swagger-ui-1]: /images/distribution/swagger-ui-1.png
 
 ## Overriding the Swagger Documentation
 
@@ -249,7 +251,9 @@ resources:
             - {name: 'theme', description: 'dark'}
 ```
 
-![Impact on swagger ui](../distribution/images/swagger-ui-2.png)
+![Impact on swagger ui][swagger-ui-2]
+
+[swagger-ui-2]: /images/distribution/swagger-ui-2.png
 
 ## Changing the Swagger UI Location
 
